@@ -19,7 +19,7 @@ with open(targetlist, 'r') as stocks:
     for row in stockreader:
         stocklist.append(row[0])
 
-
+# wews
 emadict = {}
 ema50test = []
 
