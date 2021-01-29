@@ -1,0 +1,59 @@
+1
+ABBV, len of eqs:4 stock open price: 96.01000213623047 closetopeqs: 3 closeboteqs:
+ABT, len of eqs:1 stock open price: 109.25 closetopeqs:  closeboteqs: 
+ADBE, len of eqs:1 stock open price: 466.7200012207031 closetopeqs:  closeboteqs: 
+ALL, len of eqs:2 stock open price: 94.79000091552734 closetopeqs:  closeboteqs: 
+AMT, len of eqs:1 stock open price: 238.92999267578125 closetopeqs:  closeboteqs: 
+AXP, len of eqs:1 stock open price: 118.58999633789062 closetopeqs:  closeboteqs: 
+BAC, len of eqs:4 stock open price: 27.489999771118164 closetopeqs:  closeboteqs: 
+BK, len of eqs:1 stock open price: 39.16999816894531 closetopeqs:  closeboteqs: 
+BLK, len of eqs:1 stock open price: 661.0700073242188 closetopeqs:  closeboteqs: 
+BMY, len of eqs:1 stock open price: 64.20999908447266 closetopeqs:  closeboteqs: 
+CAT, len of eqs:9 stock open price: 171.89999389648438 closetopeqs: 6,7 closeboteqs: 
+CHTR, len of eqs:1 stock open price: 603.4500122070312 closetopeqs:  closeboteqs: 
+CL, len of eqs:13 stock open price: 81.88999938964844 closetopeqs:  closeboteqs: 
+CMCSA, len of eqs:9 stock open price: 46.16999816894531 closetopeqs: 3 closeboteqs: 7
+COF, len of eqs:1 stock open price: 87.26000213623047 closetopeqs: 0 closeboteqs: 
+COP, len of eqs:3 stock open price: 34.349998474121094 closetopeqs: 0,1 closeboteqs: 
+COST, len of eqs:1 stock open price: 363.8800048828125 closetopeqs:  closeboteqs: 
+CRM, len of eqs:1 stock open price: 258.05999755859375 closetopeqs:  closeboteqs: 
+CSCO, len of eqs:12 stock open price: 38.209999084472656 closetopeqs:  closeboteqs: 
+CVS, len of eqs:2 stock open price: 68.44999694824219 closetopeqs: 1 closeboteqs: 
+CVX, len of eqs:3 stock open price: 81.13999938964844 closetopeqs:  closeboteqs: 
+DD, len of eqs:15 stock open price: 61.91999816894531 closetopeqs: 1,9,10 closeboteqs: 6
+DHR, len of eqs:1 stock open price: 233.1699981689453 closetopeqs:  closeboteqs: 
+DOW, len of eqs:3 stock open price: 52.33000183105469 closetopeqs:  closeboteqs: 
+DUK, len of eqs:2 stock open price: 95.72000122070312 closetopeqs:  closeboteqs: 
+EMR, len of eqs:4 stock open price: 76.55999755859375 closetopeqs:  closeboteqs: 
+EXC, len of eqs:5 stock open price: 43.27000045776367 closetopeqs:  closeboteqs: 2
+F, len of eqs:4 stock open price: 8.229999542236328 closetopeqs:  closeboteqs: 
+GD, len of eqs:2 stock open price: 148.8000030517578 closetopeqs:  closeboteqs: 
+GE, len of eqs:5 stock open price: 8.819999694824219 closetopeqs:  closeboteqs: 
+GILD, len of eqs:4 stock open price: 58.439998626708984 closetopeqs: 0 closeboteqs: 
+JPM, len of eqs:1 stock open price: 117.3499984741211 closetopeqs:  closeboteqs: 
+KHC, len of eqs:6 stock open price: 30.040000915527344 closetopeqs:  closeboteqs: 
+KMI, len of eqs:11 stock open price: 12.470000267028809 closetopeqs: 0,1,4,8,9,10 closeboteqs: 
+KO, len of eqs:6 stock open price: 52.56999969482422 closetopeqs: 0,1,2,3,4,5 closeboteqs: 
+LMT, len of eqs:3 stock open price: 365.0 closetopeqs:  closeboteqs: 
+MDLZ, len of eqs:1 stock open price: 55.41999816894531 closetopeqs:  closeboteqs: 
+MDT, len of eqs:5 stock open price: 112.80999755859375 closetopeqs:  closeboteqs: 0
+MRK, len of eqs:2 stock open price: 81.77999877929688 closetopeqs:  closeboteqs: 
+MS, len of eqs:7 stock open price: 56.59000015258789 closetopeqs: 1,2 closeboteqs: 
+NKE, len of eqs:1 stock open price: 130.0500030517578 closetopeqs:  closeboteqs: 
+ORCL, len of eqs:1 stock open price: 56.90999984741211 closetopeqs:  closeboteqs: 
+PEP, len of eqs:10 stock open price: 136.99000549316406 closetopeqs:  closeboteqs: 
+PFE, len of eqs:2 stock open price: 40.45000076293945 closetopeqs:  closeboteqs: 
+PM, len of eqs:3 stock open price: 72.63999938964844 closetopeqs:  closeboteqs: 0
+QCOM, len of eqs:1 stock open price: 140.14999389648438 closetopeqs:  closeboteqs: 
+RTX, len of eqs:3 stock open price: 66.0999984741211 closetopeqs:  closeboteqs: 
+SBUX, len of eqs:6 stock open price: 93.73999786376953 closetopeqs:  closeboteqs: 
+SLB, len of eqs:18 stock open price: 18.770000457763672 closetopeqs:  closeboteqs: 
+SPG, len of eqs:4 stock open price: 76.69999694824219 closetopeqs:  closeboteqs: 
+T, len of eqs:25 stock open price: 28.549999237060547 closetopeqs: 1,2,3,4,15,16,17,18,21,22,23 closeboteqs: 
+UNH, len of eqs:1 stock open price: 349.489990234375 closetopeqs:  closeboteqs: 
+UPS, len of eqs:2 stock open price: 163.72999572753906 closetopeqs:  closeboteqs: 
+USB, len of eqs:4 stock open price: 44.4900016784668 closetopeqs:  closeboteqs: 
+VZ, len of eqs:6 stock open price: 60.279998779296875 closetopeqs: 2 closeboteqs: 
+WBA, len of eqs:3 stock open price: 39.79999923706055 closetopeqs: 2 closeboteqs: 
+WFC, len of eqs:5 stock open price: 24.360000610351562 closetopeqs:  closeboteqs: 
+XOM, len of eqs:1 stock open price: 37.04999923706055 closetopeqs:  closeboteqs: 
